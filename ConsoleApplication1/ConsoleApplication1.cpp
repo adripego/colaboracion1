@@ -5,7 +5,7 @@
 //Probando git
 int g_iPosMainChar = 1;
 int g_iCharLives = 3;
-int g_iPosBullet = 0;
+int g_iPosBullet = 764764;
 bool g_bExistsBullet = false;
 bool g_bBulletLeft = false;
 bool g_bExistsMob = false;
